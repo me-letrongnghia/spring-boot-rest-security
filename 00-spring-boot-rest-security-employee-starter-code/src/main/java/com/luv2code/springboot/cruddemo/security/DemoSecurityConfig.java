@@ -43,6 +43,8 @@ public class DemoSecurityConfig {
     }
 
 /*
+    // use hard code
+    
     @Bean
     public InMemoryUserDetailsManager userDetailsManager() {
         UserDetails nghia = User.builder()
